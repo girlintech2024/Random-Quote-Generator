@@ -1,2 +1,5 @@
 # Random-Quote-Generator
-This is a small project that i created where a user just clicks on a button according to what emotion that they are feeling then a random quote pops up for each emotion that is clicked 
+5 buttons at the interface
+Each button can be clicked by what the user feels 
+When clicked, a random quote pops on a quote display and the user can see the different quotes 
+
